@@ -1,0 +1,5 @@
+2;Audi Hungaria Zrt.;0696661000;9027 Gyor, Audi Hungaria ut 1.;Les Zoltan;autoipar;
+1;Fodor Zoltan;06303159894;2335 Taksony, Erzsebet krt. 28.;Zoli;06306043589;
+1;Hajdu Norbert;06306663939;7772 Ivanbattyan, Piroska u. 51.;Norbi;06708007136;
+2;Varga Pinceszet;06703302691;8257 Badacsonyors, Furedi ut 49.;Varga Peter;pinceszet;
+1;Vass Albert;06706427797;4127 Nagykereki, Tompa u. 64.;Berti;06301635913;
